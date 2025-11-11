@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Torta de Chocolate",
+    "description": "Bizcochuelo húmedo de cacao con relleno de ganache y cobertura de chocolate semiamargo.",
+    "price": 8500,
+    "stock": 10,
+    "image": "https://amoradulce.com/wp-content/uploads/2019/12/Torta-chocolate-1_04_13_2024-scaled.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Lemon Pie",
+    "description": "Base crocante con crema de limón y merengue italiano dorado al horno.",
+    "price": 7200,
+    "stock": 8,
+    "image": "https://www.annarecetasfaciles.com/files/lemon-pie-scaled.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Cheesecake de Frutilla",
+    "description": "Clásico cheesecake con salsa casera de frutillas frescas.",
+    "price": 7900,
+    "stock": 12,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.1CipgwSZpcyWGgMZJ6B1YQHaE7?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 4,
+    "title": "Tarta de Manzana",
+    "description": "Masa sablée rellena de manzanas caramelizadas y un toque de canela.",
+    "price": 6800,
+    "stock": 9,
+    "image": "https://2.bp.blogspot.com/-oFzqsiPVRt0/W54LMVkrXCI/AAAAAAAAOI8/8LqxRVgLMOcPnZQUawIVz0xltVTWHYSagCLcBGAs/s1600/tarta%2Bde%2Bmanzana%2Bfacil%2B%25284%2529.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Brownie con Nueces",
+    "description": "Brownie húmedo de chocolate con trozos de nueces tostadas.",
+    "price": 5500,
+    "stock": 15,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.Xv4Yvo5KtR2TdlSHDTrWiAHaEK?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 6,
+    "title": "Cupcakes Vainilla",
+    "description": "Cupcakes esponjosos de vainilla con buttercream de colores.",
+    "price": 4500,
+    "stock": 20,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.0pKM2DxWvVQeudHZRzyJzgHaGq?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 7,
+    "title": "Alfajores de Maicena",
+    "description": "Clásicos alfajores rellenos con dulce de leche y coco rallado.",
+    "price": 3500,
+    "stock": 30,
+    "image": "https://elgourmet.s3.amazonaws.com/recetas/share/alfaj_hgMHx6wseQRprzkq4ItTPGi5BvS1jN.png"
+  },
+  {
+    "id": 8,
+    "title": "Tiramisú",
+    "description": "Postre italiano con capas de vainillas, café y crema mascarpone.",
+    "price": 8700,
+    "stock": 7,
+    "image": "https://okdiario.com/img/2019/04/18/tiramisu-1.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Rogel",
+    "description": "Capas finas de masa crocante con dulce de leche y cobertura de merengue.",
+    "price": 8900,
+    "stock": 6,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.ZTO0yK9SVBZk6SIPtb-hHQHaJQ?cb=ucfimg2ucfimg=1&w=819&h=1024&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 10,
+    "title": "Tarta de Frutas",
+    "description": "Base de masa sablée con crema pastelera y frutas frescas de estación.",
+    "price": 7600,
+    "stock": 10,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.HlEiSJ66es5qyEPqrdR8EQHaE8?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 11,
+    "title": "Cookies con Chips de Chocolate",
+    "description": "Galletas caseras con chips de chocolate semiamargo.",
+    "price": 3200,
+    "stock": 25,
+    "image": "https://media.losandes.com.ar/p/3128eb1db60f9113c9cd1fac9ca8d658/adjuntos/368/imagenes/100/014/0100014680/1000x0/smart/la-facil-receta-las-cookies-chips-chocolate.png"
+  },
+  {
+    "id": 12,
+    "title": "Torta Red Velvet",
+    "description": "Bizcochuelo rojo aterciopelado con crema de queso suave.",
+    "price": 9500,
+    "stock": 5,
+    "image": "https://williamisaias.com/wp-content/uploads/2023/06/Portada-Torta-de-red-velvet-William-Isaias-1024x1024.png"
+  },
+  {
+    "id": 13,
+    "title": "Budín de Naranja",
+    "description": "Budín húmedo con ralladura natural de naranja y glaseado cítrico.",
+    "price": 4800,
+    "stock": 14,
+    "image": "https://cdn0.recetasgratis.net/es/posts/9/9/7/budin_de_naranja_en_licuadora_72799_orig.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Muffins de Arándanos",
+    "description": "Muffins esponjosos con arándanos frescos y un toque de limón.",
+    "price": 4600,
+    "stock": 16,
+    "image": "https://www.splenda.com/wp-content/themes/bistrotheme/assets/recipe-images/blueberry-muffins.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Medialunas de Manteca",
+    "description": "Clásicas medialunas artesanales con masa laminada y glaseado suave.",
+    "price": 4200,
+    "stock": 22,
+    "image": "https://media.airedesantafe.com.ar/p/04891994edb3882a7addd38136bef91d/adjuntos/268/imagenes/003/778/0003778008/1200x0/smart/imagepng.png"
+  },
+  {
+    "id": 16,
+    "title": "Torta Oreo",
+    "description": "Base de galletas Oreo con crema de queso y cobertura de chocolate blanco.",
+    "price": 9100,
+    "stock": 7,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.nDKo7saqMtIFiLXnxiFeGgHaE8?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 17,
+    "title": "Chocotorta",
+    "description": "Capas de galletitas chocolinas con crema de dulce de leche y queso crema.",
+    "price": 7300,
+    "stock": 9,
+    "image": "https://cdn.buenavibra.es/wp-content/uploads/2016/07/06194538/choctorta-1200.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Torta de Zanahoria",
+    "description": "Bizcochuelo de zanahoria con nueces, especias y cobertura de queso crema.",
+    "price": 8400,
+    "stock": 6,
+    "image": "https://th.bing.com/th/id/R.baf13c72c2fc059aa1cbb04911e7e4de?rik=yjmbaEArflldbw&riu=http%3a%2f%2fmilrecetas.net%2fwp-content%2fuploads%2f2017%2f05%2ftorta-de-zanahoria.jpg&ehk=F%2fpfh1DclIqt01QjekvUujv3p30HUJUNlZ8OhD439fk%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 19,
+    "title": "Mini Tartaletas de Frutas",
+    "description": "Pequeñas tartas individuales con crema pastelera y frutas variadas.",
+    "price": 5000,
+    "stock": 18,
+    "image": "https://th.bing.com/th/id/R.cb92eb74975caecfe2e6d60ae6e19b6f?rik=WOy2Bt1hYqouvQ&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 20,
+    "title": "Torta Mousse de Maracuyá",
+    "description": "Mousse suave de maracuyá sobre base de galleta, con cobertura brillante.",
+    "price": 9700,
+    "stock": 5,
+    "image": "https://images.clarin.com/2020/02/13/6f22m1Mz_1200x630__1.jpg"
+  }
+]

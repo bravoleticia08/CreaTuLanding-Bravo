@@ -1,0 +1,11 @@
+.cartWidget{
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+}
+
+.shoppingCart{
+    background-color: transparent;
+    width: 2rem;
+    height: 1rem;
+}
