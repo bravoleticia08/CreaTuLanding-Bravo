@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Cheesecake Clásico",
+    "description": "Cremoso cheesecake con base de galletas y coulis de frutos rojos.",
+    "price": 6500,
+    "stock": 12,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.W3b68CVjlvB4DWla-CoYkgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "category": "postres"
+  },
+  {
+    "id": 2,
+    "title": "Tiramisú Italiano",
+    "description": "Tradicional tiramisú con café intenso y cacao amargo.",
+    "price": 5800,
+    "stock": 10,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.vxPYzUWCVWv3P6xJ68bYBQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "category": "postres"
+  },
+  {
+    "id": 3,
+    "title": "Brownie con Nueces",
+    "description": "Brownie húmedo de chocolate con trozos de nuez.",
+    "price": 4200,
+    "stock": 20,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.XhQA3FLmimwEPcaK98NceAHaE6?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "category": "postres"
+  },
+  {
+    "id": 4,
+    "title": "Flan Casero",
+    "description": "Flan tradicional con dulce de leche y crema.",
+    "price": 3800,
+    "stock": 18,
+    "image": "https://www.carolinabauque.nl/wp-content/uploads/2022/04/flan-casero.jpg",
+    "category": "postres"
+  },
+  {
+    "id": 5,
+    "title": "Mousse de Chocolate",
+    "description": "Mousse aireado de chocolate semiamargo.",
+    "price": 4500,
+    "stock": 15,
+    "image": "https://receitadaboa.com.br/wp-content/uploads/2024/07/Imagem-ilustrativa-de-mousse-de-chocolate-1.webp",
+    "category": "postres"
+  },
+  {
+    "id": 6,
+    "title": "Tarta de Manzana",
+    "description": "Tarta clásica de manzana con masa crujiente y canela.",
+    "price": 5200,
+    "stock": 9,
+    "image": "https://2.bp.blogspot.com/-r8NowAYHetI/W54LNMDTAfI/AAAAAAAAOJE/Ir88oRQ8ZF4qltNCSR9aP-SIeUmLU5PKgCLcBGAs/s1600/tarta%2Bde%2Bmanzana%2Bfacil.jpg",
+    "category": "tartas"
+  },
+  {
+    "id": 7,
+    "title": "Tarta de Frutillas",
+    "description": "Base de masa sablée con crema pastelera y frutillas frescas.",
+    "price": 5900,
+    "stock": 11,
+    "image": "https://media.diariouno.com.ar/p/6596b9dc32b9c9f6aedb90d00193ecba/adjuntos/298/imagenes/009/418/0009418787/1200x675/smart/receta-tarta-frutillas-1jpg.jpg",
+    "category": "tartas"
+  },
+  {
+    "id": 8,
+    "title": "Tarta de Limón",
+    "description": "Tarta de limón con merengue italiano tostado.",
+    "price": 5600,
+    "stock": 14,
+    "image": "https://www.pequerecetas.com/wp-content/uploads/2022/11/tarta-de-limon-thermomix.jpg",
+    "category": "tartas"
+  },
+  {
+    "id": 9,
+    "title": "Tarta de Chocolate",
+    "description": "Tarta de masa suave con ganache de chocolate intenso.",
+    "price": 6100,
+    "stock": 8,
+    "image": "https://th.bing.com/th/id/R.cecd0b4017ae1785c7491330af9fee9a?rik=quue5PnSW5XsPQ&pid=ImgRaw&r=0",
+    "category": "tartas"
+  },
+  {
+    "id": 10,
+    "title": "Tarta de Coco y Dulce de Leche",
+    "description": "Clásica tarta con base de dulce de leche y coco rallado.",
+    "price": 4800,
+    "stock": 13,
+    "image": "https://azucarledesma.com/wp-content/uploads/2023/07/20241007-TartaCocoDDL.jpg",
+    "category": "tartas"
+  },
+  {
+    "id": 11,
+    "title": "Cupcake Vainilla",
+    "description": "Cupcake esponjoso de vainilla con buttercream.",
+    "price": 1500,
+    "stock": 25,
+    "image": "https://th.bing.com/th/id/R.93590e195482c197dd30bd4b9aa098a7?rik=UCGHgTemOzcrCg&pid=ImgRaw&r=0",
+    "category": "cupcakes"
+  },
+  {
+    "id": 12,
+    "title": "Cupcake Chocolate",
+    "description": "Cupcake húmedo de chocolate con frosting cremoso.",
+    "price": 1600,
+    "stock": 22,
+    "image": "https://sallysbakingaddiction.com/wp-content/uploads/2017/06/moist-chocolate-cupcakes-5.jpg",
+    "category": "cupcakes"
+  },
+  {
+    "id": 13,
+    "title": "Cupcake Red Velvet",
+    "description": "Clásico red velvet con frosting de queso crema.",
+    "price": 1800,
+    "stock": 18,
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.NLmISk3HqUYu9BghFcMMuAHaHa?w=2000&h=2000&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "category": "cupcakes"
+  },
+  {
+    "id": 14,
+    "title": "Cupcake Oreo",
+    "description": "Cupcake de vainilla con crema y trozos de Oreo.",
+    "price": 1700,
+    "stock": 20,
+    "image": "https://chocolatecoveredkatie.com/wp-content/uploads/2022/08/Oreo-Cookie-Cupcakes-With-Cookies-And-Cream-Frosting.jpg",
+    "category": "cupcakes"
+  },
+  {
+    "id": 15,
+    "title": "Cupcake Frutal",
+    "description": "Cupcake de limón con crema y frutillas frescas.",
+    "price": 1750,
+    "stock": 15,
+    "image": "https://imagensblogs.nyc3.digitaloceanspaces.com/cupcakeria/2023/07/13083223/cupcake-vegano-recheio-cremoso-2.webp",
+    "category": "cupcakes"
+  },
+  {
+    "id": 16,
+    "title": "Budín Marmolado",
+    "description": "Budín casero de vainilla y chocolate.",
+    "price": 3500,
+    "stock": 12,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.Q7viiD8vyZjVdrpK6FaVDgHaJQ?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "category": "postres"
+  },
+  {
+    "id": 17,
+    "title": "Lemon Pie Individual",
+    "description": "Versión individual de nuestro clásico lemon pie.",
+    "price": 3000,
+    "stock": 16,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.oXlpczO5vRtUYN4m8HFzewHaHa?w=800&h=800&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "category": "tartas"
+  },
+  {
+    "id": 18,
+    "title": "Tarta de Durazno",
+    "description": "Tarta fresca con crema pastelera y duraznos.",
+    "price": 5700,
+    "stock": 10,
+    "image": "https://i.pinimg.com/originals/61/bc/68/61bc687f55b516ff9f14c029308c98e6.jpg",
+    "category": "tartas"
+  },
+  {
+    "id": 19,
+    "title": "Postre Balcarce",
+    "description": "Bizcochuelo, crema, merengue y nueces.",
+    "price": 6800,
+    "stock": 8,
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.BGXy2dyPFAM8KHfLDZDXSAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "category": "postres"
+  },
+  {
+    "id": 20,
+    "title": "Cupcake Dulce de Leche",
+    "description": "Cupcake relleno y decorado con dulce de leche repostero.",
+    "price": 1600,
+    "stock": 19,
+    "image": "https://chocolatewithgrace.com/wp-content/uploads/2017/09/CWG-Dulce-Cupcakes-5-1-of-1-1536x1097.jpg",
+    "category": "cupcakes"
+  }
+]

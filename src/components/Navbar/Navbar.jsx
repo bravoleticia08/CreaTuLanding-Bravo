@@ -14,6 +14,9 @@ function Navbar() {
           <li><NavLink to="/">Inicio</NavLink></li>
           <li><NavLink to="/sucursales">Sucursales</NavLink></li>
           <li><NavLink to="/contact">Contactate</NavLink></li>
+          <li><NavLink to="/category/postres">|  Postres</NavLink></li>
+          <li><NavLink to="/category/tartas">Tartas</NavLink></li>
+          <li><NavLink to="/category/cupcakes">Cupcakes</NavLink></li>
         </ul>
       </nav>
 
