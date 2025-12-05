@@ -1,16 +1,83 @@
-# React + Vite
+Merida Backery – E-commerce en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un e-commerce desarrollado con React, React Router, Context API y Firebase Firestore.
+Permite listar productos, ver su detalle, agregarlos al carrito, navegar por categorías y finalizar la compra generando una orden en Firestore.
+----
+Tecnologías utilizadas
 
-Currently, two official plugins are available:
+React + Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Router
 
-## React Compiler
+Context API (manejo de estado global del carrito)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Firebase Firestore (base de datos)
 
-## Expanding the ESLint configuration
+CSS Modules / Archivos CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Variables de entorno (.env)
+-----
+Funcionalidades principales
+📌 1. Listado y detalle de productos
+
+Se obtienen desde Firestore.
+
+Vista de listado y vista de detalle.
+
+Renderizado condicional según la pantalla.
+
+📌 2. Carrito de compras
+
+Estado global con Context API.
+
+Agregar, eliminar y vaciar carrito.
+
+Cálculo de subtotal, total y cantidad de items.
+
+📌 3. ItemCount
+
+Permite seleccionar cantidad a agregar.
+
+Valida stock.
+
+Se oculta luego de agregar el producto al carrito.
+
+📌 4. Navegación
+
+Implementada con React Router.
+
+Navegación SPA sin recargar la página.
+
+Rutas para:
+
+Inicio
+
+Categorías
+
+Detalle de producto
+
+Carrito
+
+Checkout
+
+📌 5. Firebase
+
+Colección items para los productos.
+
+Colección orders para guardar las compras.
+
+Al confirmar la compra se genera un documento en Firestore.
+
+📌 6. Experiencia de usuario
+
+Loaders y mensajes condicionales:
+
+“Cargando…”
+
+“Carrito vacío”
+
+“Producto sin stock”
+
+Muestra el ID de la orden al finalizar la compra.
+
+---
