@@ -1,4 +1,4 @@
-import "./App.css"
+import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router";
 import Products from "./pages/Products";
 import ProductDetail from "./pages/ProductDetail";
@@ -6,6 +6,7 @@ import CartDetail from "./pages/CartDetail";
 import Contact from "./pages/Contact";
 import Sucursal from "./pages/Sucursales";
 import NotFound from "./pages/NotFound";
+import CheckoutForm from "./pages/CheckoutForm";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/category/:categoryId" element={<Products />} />
         <Route path="/product-detail/:productId" element={<ProductDetail />} />
         <Route path="/cart-detail" element={<CartDetail />} />
+        <Route path="/checkout" element={<CheckoutForm />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/sucursales" element={<Sucursal />} />
         <Route path="*" element={<NotFound />} />

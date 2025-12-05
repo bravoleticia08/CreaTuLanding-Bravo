@@ -14,7 +14,7 @@ function ItemListContainer() {
     } else {
       getProducts().then(setProducts);
     }
-  }, [categoryId]); 
+  }, [categoryId]);
 
   return (
     <div className="itemListContainer">

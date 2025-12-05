@@ -1,34 +1,25 @@
-import { useState } from "react"
-import "./ItemCount.css"
+import { useState } from "react";
+import "./ItemCount.css";
 
-function ItemCount({stock}) {
+function ItemCount({ stock, initial = 1, onAdd }) {
+  const [count, setCount] = useState(initial);
 
-    const [count, setCount] = useState(1)
+  const less = () => setCount(c => Math.max(1, c - 1));
+  const add = () => setCount(c => Math.min(stock, c + 1));
+  const handleAdd = () => {
+    if (onAdd) onAdd(count);
+  };
 
-    const less = () => {
-        if (count > 1) {
-            setCount(count - 1)
-        }
-    }
-
-    const add = () => {
-        if(count<stock){
-            setCount(count + 1)
-        }
-        
-
-    }
-
-
-    return (
-        <div>
-            <button onClick={less}>-</button>
-            <span>{count}</span>
-            <button onClick={add}>+</button>
-
-        </div>
-    )
-
+  return (
+    <div className="itemCount">
+      <div>
+        <button onClick={less} className="itemCount-btn">-</button>
+      <span>{count}</span>
+      <button onClick={add} className="itemCount-btn">+</button>
+      </div>
+      <button onClick={handleAdd} className="itemCount-btn-add">Agregar</button>
+    </div>
+  );
 }
 
-export default ItemCount
+export default ItemCount;
